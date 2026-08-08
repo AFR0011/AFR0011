@@ -4,12 +4,12 @@
 
 MSc Computer Engineering. I build software and evaluation systems across applied AI, cybersecurity, RAG, backend/full-stack engineering, and research tooling.
 
-## Featured public work
+## Featured work
 
 ### [VERA-IDS](https://github.com/AFR0011/VERA-IDS)
 Validity-aware evaluation framework and reproducible research-software release for two-stage machine-learning intrusion detection. The maintained release includes corrected evaluation definitions, support-audited open-set experiments, deterministic verification, tests, provenance manifests, and release gates.
 
-## Engineering work being prepared for publication
+## Selected engineering work
 
 - **ContextOS** — Next.js/PostgreSQL application with authentication, migrations, IndexedDB caching, offline mutation queues, idempotent synchronization, PWA behavior, and Playwright E2E coverage.
 - **EMUAdvisor** — grounded local RAG system over official university regulations with hybrid retrieval, citations, refusal/clarification behavior, a human-reviewed evaluation set, FastAPI, Qdrant support, and browser/unit verification.
