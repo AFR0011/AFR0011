@@ -30,5 +30,3 @@ Parallel/distributed LU-factorization work using MPI-style TCP communication, st
 ## Current interests
 
 Reliable AI · research software · applied RAG · cybersecurity ML · backend/full-stack systems · evaluation and reproducibility
-
-I prefer project claims that can be traced to code, tests, evaluation artifacts, or reproducible results. A smaller evidence-backed portfolio is more useful than a wall of technologies that happened to be installed once.
