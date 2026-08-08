@@ -9,15 +9,13 @@ MSc Computer Engineering. I build software and evaluation systems across applied
 ### [VERA-IDS](https://github.com/AFR0011/VERA-IDS)
 Validity-aware evaluation framework and reproducible research-software release for two-stage machine-learning intrusion detection. The maintained release includes corrected evaluation definitions, support-audited open-set experiments, deterministic verification, tests, provenance manifests, and release gates.
 
-### [Parallel-LU](https://github.com/AFR0011/Parallel-LU)
-Parallel/distributed LU-factorization work using MPI-style TCP communication, standard MPI, and OpenMP, with numerical verification and benchmarking.
-
 ## Engineering work being prepared for publication
 
-- **EMUAdvisor** — grounded local RAG system over official university regulations with hybrid retrieval, citations, refusal/clarification behavior, a human-reviewed evaluation set, FastAPI, Qdrant support, and browser/unit verification.
 - **ContextOS** — Next.js/PostgreSQL application with authentication, migrations, IndexedDB caching, offline mutation queues, idempotent synchronization, PWA behavior, and Playwright E2E coverage.
+- **EMUAdvisor** — grounded local RAG system over official university regulations with hybrid retrieval, citations, refusal/clarification behavior, a human-reviewed evaluation set, FastAPI, Qdrant support, and browser/unit verification.
 - **Signal Forge** — Flask/Socket.IO backend for isolated asynchronous jobs with ownership-scoped access, resource admission, bounded concurrency, failure cleanup, and automated reliability/security tests.
 - **TapTrack** — local-first personal finance application using Next.js, React, TypeScript, Dexie/IndexedDB, Supabase Auth/sync boundaries, PWA features, and automated release verification.
+- **Dart Club** — PHP/MySQL club and tournament-management platform with role-based workflows, tournament generation, membership administration, publishing tools, and a dedicated security-hardening/publication pass.
 
 ## Core stack
 
